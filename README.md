@@ -30,4 +30,5 @@ make
 ## Author
 [Nguyễn Huy Hoàn](huyhoanfithcmus.github.io)
 
-## Đọc đến đây cũng tin được à há há há
+## Đọc đến đây cũng tin được à há há há, làm gì có ngôn ngữ C-- nào
+## 
